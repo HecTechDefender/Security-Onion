@@ -1,4 +1,4 @@
-<h1>Hands-On Lab - Implementing Security Onion</h1>
+<h1>Implementing Security Onion</h1>
 
  ### 
 
