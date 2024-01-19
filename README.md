@@ -111,9 +111,10 @@ Make sure to select the minimum requirement for Security Onion: 16GB RAM & 2 pro
 
 <br />
 <br />
-                                      <br/>
+Then click start to open your new virtual machine. Once opened, it will look like this. Type the entire word "yes" to proceed. 
+                    START HERE    <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S34iF4Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
