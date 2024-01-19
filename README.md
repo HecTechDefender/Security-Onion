@@ -70,7 +70,7 @@ If you haven't installed VirtualBox before, there will be some dependencies, no 
 <br />
 While that's installing, go back to the Security Onion github page and cross reference the file hash numbers (highlighted SHA256 number) and make sure they match to ensure that they didn't get tampered with while downloading. 
 
-To check the file hash of Security Onion, open the folder where it is downloaded and hold SHIFT + RIGHT CLICK on the mouse and click "Open PowerShell window here" then type Get-FileHash SecurityOnion hit TAB and press ENTER.  It should reveal the file hash number.                                       <br/>
+To check the file hash of Security Onion, open the folder where it is downloaded and hold SHIFT + RIGHT CLICK on the mouse and click "Open PowerShell window here" then type Get-FileHash SecurityOnion hit TAB and press ENTER. It should reveal the file hash number.                                       <br/>
                                       <br />
 <img src="https://i.imgur.com/DOG0ZAs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -79,36 +79,32 @@ To check the file hash of Security Onion, open the folder where it is downloaded
 
 <br />
 <br />
-                                      <br/>
+ Once all that's verified, open VirtualBox and click on "new".  Name your new machine "Security Onion" and then select the Security Onion ISO file. Then check the box "Skip Unattended Installation".                                      <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rCzPDlp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Make sure to select the minimum requirement for Security Onion: 16GB RAM & 2 processors.     <br/>
+                                      <br />
+<img src="https://i.imgur.com/6GZBj5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br /> In regards to storage, Security Onion recommends 200GBs, but it's up to you.                                        <br/>
+                                      <br />
+<img src="https://i.imgur.com/iqfhvty.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
 <br />
-                                      <br/>
+ On this last page, just make sure everything looks correct and then click finish.    <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MK2dkxH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
