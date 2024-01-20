@@ -117,12 +117,12 @@ Then click start to open your new virtual machine. Once opened, it will look lik
 <br />
 <br/>
 
-
+  
 <br />
 <br />
-                                      <br/>
+ Once that's done, you'll land on a log on page. Enter the username and password that you entered just a bit ago.  Then you'll be presented with a set up page. Click yes.                                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xFVEDzI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
