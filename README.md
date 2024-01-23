@@ -131,10 +131,86 @@ Then click start to open your new virtual machine. Once opened, it will look lik
 <br />
                                       <br/>
                                       <br />
+<img src="https://i.imgur.com/17pfOHk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="https://i.imgur.com/jn3cmze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+ Type "AGREE"                                    <br/>
+                                      <br />
+<img src="https://i.imgur.com/8T4QjYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="https://i.imgur.com/kO6zaa5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
+<br />
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+<br />
 
 <br />
 <br />
