@@ -17,14 +17,15 @@ In this project we will address vulnerability scanning and remediation, essentia
 
 <h2>Program walk-through:</h2>
 
-To begin, let's download Vmware for Windows. 
+To begin, let's download VMware for Windows. 
 
-[Download: Vmware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) <b><i></b></i>
+[Download: VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) <b><i></b></i>
              
 [Download: Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10) <b><i></b></i>  
 <br /> 
 [Download: Nessus Essentials](https://www.tenable.com/products/nessus/nessus-essentials) <b><i></b></i>                                                                                                                        <br />
- While Vmware is downloading, head over to Windows and download the ISO as well. 
+<br /> 
+ While VMware is downloading, head over to Windows and download the ISO as well. 
                                                                                       <br/>
                                                                                       <br />
 <img src="https://i.imgur.com/OJn65Y9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -101,7 +102,7 @@ After clicking download, select the options below and click download again. Make
 
 <br />
 <br />
-                                      <br/>
+ START HERE!!!!                                     <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
