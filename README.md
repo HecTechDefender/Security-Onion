@@ -19,19 +19,18 @@ In this project we will address vulnerability scanning and remediation, essentia
 
 To begin, let's download Vmware for Windows. 
 
-[Vmware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) <b><i></b></i>
-                
+[Download: Vmware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) <b><i></b></i>
+             
+<br /> [Download: Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10) <b><i></b></i>  
 <br />
-<br />
- While Vmware is downloading, head over to  and download that as well. 
+ While Vmware is downloading, head over to Windows and download the ISO as well. 
                                                                                       <br/>
                                                                                       <br />
 <img src="https://i.imgur.com/OJn65Y9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
                <br/>
 
- <br/>
-                                    <br />
+   <br />
 <img src="https://i.imgur.com/9wAYXgk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
