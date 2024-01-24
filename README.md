@@ -23,25 +23,25 @@ To begin, let's download Vmware for Windows.
                 
 <br />
 <br />
- While Security Onion is downloading, head over to VirtualBox and download that as well. 
+ While Vmware is downloading, head over to  and download that as well. 
                                                                                       <br/>
                                                                                       <br />
-<img src="https://i.imgur.com/M7PCKZb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OJn65Y9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
                <br/>
 
-  <br/>
+ <br/>
                                     <br />
-<img src="https://i.imgur.com/wLOK7f8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9wAYXgk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 <br />
 
 <br />
- Install and leave everything default.                                     <br/>
+                                   <br/>
                                    <br />
-<img src="https://i.imgur.com/gg5PlJb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -49,9 +49,9 @@ To begin, let's download Vmware for Windows.
 
 
 <br />
-This window is simply informing you that if you click on it, your network adapters/network connections will be disconnected. To be safe, make sure that Security Onion has finished downloading before continuing. If it's already downloaded, click yes.  <br/>
+                                      <br/>
                                       <br />
-<img src="https://i.imgur.com/YQ94f0u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -59,70 +59,68 @@ This window is simply informing you that if you click on it, your network adapte
 
 
 <br />
-If you haven't installed VirtualBox before, there will be some dependencies, no need to worry, this window will auto install those dependencies for you so just click install.        <br/>
+                                      <br/>
                                       <br />
-<img src="https://i.imgur.com/8hJ9Sno.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
 
 <br />
 <br />
-While that's installing, go back to the Security Onion github page and cross reference the file hash numbers (highlighted SHA256 number) and make sure they match to ensure that they didn't get tampered with while downloading. 
-
-To check the file hash of Security Onion, open the folder where it is downloaded and hold SHIFT + RIGHT CLICK on the mouse and click "Open PowerShell window here" then type Get-FileHash SecurityOnion hit TAB and press ENTER. It should reveal the file hash number.                                       <br/>
+                                      <br/>
                                       <br />
-<img src="https://i.imgur.com/DOG0ZAs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
 <br />
- Once all that's verified, open VirtualBox and click on "new".  Name your new machine "Security Onion" and then select the Security Onion ISO file. Then check the box "Skip Unattended Installation".                                      <br/>
+                                      <br/>
                                       <br />
-<img src="https://i.imgur.com/rCzPDlp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
-Make sure to select the minimum requirement for Security Onion: 16GB RAM & 2 processors.     <br/>
+                                      <br/>
                                       <br />
-<img src="https://i.imgur.com/6GZBj5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
-<br /> In regards to storage, Security Onion recommends 200GBs, but it's up to you.                                        <br/>
+<br />                                <br/>
                                       <br />
-<img src="https://i.imgur.com/iqfhvty.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
- On this last page, just make sure everything looks correct and then click finish.    <br/>
-                                      <br />
-<img src="https://i.imgur.com/MK2dkxH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
 
 <br />
 <br />
-Then click start to open your new virtual machine. Once opened, it will look like this. Type the entire word "yes" to proceed. Then create a username and enter a admin password, hit enter and let it do it's thing. After installation, it will ask you to press enter to reboot!                <br/>
+                                      <br/>
                                       <br />
-<img src="https://i.imgur.com/IW7Gw8m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+                                      <br/>
+                                      <br />
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
- Once that's done, you'll land on a log on page. Enter the username and password that you entered just a bit ago.  Then you'll be presented with a set up page. Click yes.                                       <br/>
+                                      <br/>
                                       <br />
-<img src="https://i.imgur.com/xFVEDzI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -131,7 +129,7 @@ Then click start to open your new virtual machine. Once opened, it will look lik
 <br />
                                       <br/>
                                       <br />
-<img src="https://i.imgur.com/17pfOHk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -140,7 +138,7 @@ Then click start to open your new virtual machine. Once opened, it will look lik
 <br />
                                       <br/>
                                       <br />
-<img src="https://i.imgur.com/jn3cmze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -149,7 +147,7 @@ Then click start to open your new virtual machine. Once opened, it will look lik
 <br />
  Type "AGREE"                                    <br/>
                                       <br />
-<img src="https://i.imgur.com/8T4QjYl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -159,7 +157,7 @@ Then click start to open your new virtual machine. Once opened, it will look lik
 <br />
                                       <br/>
                                       <br />
-<img src="https://i.imgur.com/kO6zaa5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
