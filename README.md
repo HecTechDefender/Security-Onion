@@ -1,15 +1,15 @@
-<h1>Implementing Security Onion</h1>
+<h1>Implementing Vulnerability Management Functions On Sandbox Networks</h1>
 
  ### 
 
 <h2>Description</h2>
-In this project, we're diving into setting up Security Onion and getting our hands dirty with a practical lab. We'll kick things off with the installation and wrap up by walking through a malicious PCAP. 
+In this project we will address vulnerability scanning and remediation, essential steps in the Vulnerability Management Lifecycle. Nessus Essentials will be utilized to scan local VMs hosted on VMWare Workstation. The process involves running credentialed scans to identify vulnerabilities, addressing some of them through remediation, and conducting a follow-up rescan to verify the effectiveness of the remediation. 
 <br />
 
 
 <h2>Utilities Used</h2>
 
-- <b>Security Onion</b>
+- <b>Nessus Essentials</b>
 
 <h2>Environments Used </h2>
 
@@ -17,9 +17,9 @@ In this project, we're diving into setting up Security Onion and getting our han
 
 <h2>Program walk-through:</h2>
 
-To begin, let's download Security Onion. Make sure to download version: 2.4.40-20240116 ISO image.
+To begin, let's download Vmware for Windows. 
 
-[Security Onion](https://github.com/Security-Onion-Solutions/securityonion/blob/2.4/main/DOWNLOAD_AND_VERIFY_ISO.md) <b><i></b></i>
+[Vmware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) <b><i></b></i>
                 
 <br />
 <br />
