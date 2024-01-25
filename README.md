@@ -463,9 +463,9 @@ Click not now.                                    <br/>
 
   
 <br />
-                                      <br/>
+ Now we'll go to the VM and get the IP. Open your VM and open CMD and type ipconfig just to get the IPV4 Address.                                    <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r1sndX8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -475,39 +475,19 @@ Click not now.                                    <br/>
 
 <br />
 <br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-  
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
-
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Then disable the firewall (NEVER DO THIS IN PRODUCTION HOME LAB ONLY) go to start>type wf.msc>Windows defender firewall properties. <br/>
+                                  
+  <br />
+<img src="https://i.imgur.com/qm1v0yz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+Turn off the first 3 tabs.            <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xpa7Hd5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -517,18 +497,18 @@ Click not now.                                    <br/>
 
 <br />
 <br />
-                                      <br/>
+Then open CMD on your own computer and try to ping your VM.                                      <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3o4PU1N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+Now, head back over to Nessus Essentials and in the top right corner click "new scan" and then "Basic Network Scan"                                        <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YOxPYNm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -538,9 +518,29 @@ Click not now.                                    <br/>
 
 <br />
 <br />
-                                      <br/>
+Name it whatever you'd like and paste the IP Address of your VM and click save.                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n4y7MLS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+Once saved, click launch to begin the scan. This first scan we are doing is without credentials so we shouldn't expect to see that much of what might actually be vulnerable. We'll do that scan a little later.                                   <br/>
+                                      <br />
+<img src="https://i.imgur.com/0h9lryT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br /> In your VM, open services. and enable remote registry. This allows the scanner to connect to your VM's registry and look for insecure configurations etc. Change the settings to match the image below and then click apply and start.   <br/>
+                                      <br />
+<img src="https://i.imgur.com/wh97doX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
