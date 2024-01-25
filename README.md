@@ -302,13 +302,6 @@ Then follow the steps to install Windows.                                       
 
   
 <br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
 
 <br />
 <br />
@@ -458,7 +451,6 @@ Select no to all of the options.                                       <br/>
 
 
 <br />
-<br />
 
 
 <br />
@@ -470,7 +462,6 @@ Click not now.                                    <br/>
 <br/>
 
   
-<br />
 <br />
                                       <br/>
                                       <br />
