@@ -620,10 +620,7 @@ If you click on remediations, it will give you high level instructions on how to
 
 <br />
 <br />
-
-<br />
-<br />
-Before we remediate the findings, we are going to install an old version of Firefox and run another scan to see the vulnerabilities it has. So go to your VM and go to Google and search old versions of Firefox and download and install it and click finish. Below is what I just happen to install.                                    <br/>
+Before we remediate the findings, we are going to install an old version of Firefox and run another scan to see the vulnerabilities it has. So go to your VM and go to Google and search old versions of Firefox and download and install it and click finish. Below is what I just happen to install. Once that's done, open Nessus and launch another scan.                                    <br/>
                                       <br />
 <img src="https://i.imgur.com/jbuRK5A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -632,15 +629,12 @@ Before we remediate the findings, we are going to install an old version of Fire
   
 <br />
 <br />
-                                      <br/>
+Looks like the scan picked up the old Firefox that we downloaded and as you can see, it has so many vulnerabilities.                                                                  <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cuetEuE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
-
-<br />
-<br />
 
 <br />
 <br />
