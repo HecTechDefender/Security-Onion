@@ -629,7 +629,7 @@ Before we remediate the findings, we are going to install an old version of Fire
   
 <br />
 <br />
-Looks like the scan picked up the old Firefox that we downloaded and as you can see, it has so many vulnerabilities.                                                                  <br/>
+Looks like the scan picked up the old Firefox that we downloaded and as you can see, it has so many vulnerabilities. Now we can remediate some of the findings. I'm going to uninstall Firefox and then check for Windows updates since that will fix the majority of the issues then we can run a final scan and see the results.                                                                  <br/>
                                       <br />
 <img src="https://i.imgur.com/cuetEuE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -640,7 +640,7 @@ Looks like the scan picked up the old Firefox that we downloaded and as you can 
 <br />
                                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zLej1Wx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
