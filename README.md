@@ -547,9 +547,9 @@ Once saved, click launch to begin the scan. This first scan we are doing is with
   
 <br />
 <br />
-                                      <br/>
+Now go to user account control settings and drag to never notify.                                       <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QY8sfiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -560,39 +560,18 @@ Once saved, click launch to begin the scan. This first scan we are doing is with
 
 <br />
 <br />
-                                    <br/>
+ Then go to Registry, follow the path and right click and create a new DWORD labeled Local Account Token Filter Policy and add 1 to the value and restart the VM.                                    <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-  
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-
-
-<br />
-<br />
-
-<br />
-<br />
-                                      <br/>
-                                      <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CsfFlqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+Now head back over to Nessus Essentials, check the box of your VM and in the top right corner click more then configure then click the credentials tab then click Windows and add your admin account. Once added, launch scan.      <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HGlyqpG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -602,18 +581,39 @@ Once saved, click launch to begin the scan. This first scan we are doing is with
 
 <br />
 <br />
-                                      <br/>
+ As you can see, the 2nd scan has a lot more vulnerabilities when comparing it to the 1st scan.                                      <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ef6BbOR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
   
 <br />
 <br />
-                                      <br/>
+ The reason is because the credential scan has the ability to scan file systems, the Registry and any other running services.                                     <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7tHhkDU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+
+<br />
+<br />
+
+<br />
+<br />
+Now let's take a look at the vulnerabilities tab. Nessus shows you which vulnerabilities are the most important in regards to priority and it also shows you the detail of the threat and the possible solution.                                      <br/>
+                                      <br />
+<img src="https://i.imgur.com/Q75dHFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br/>
+
+  
+<br />
+<br />
+If you click on remediations, it will give you high level instructions on how to remediate most of the findings.                                     <br/>
+                                      <br />
+<img src="https://i.imgur.com/PAphWho.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
