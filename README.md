@@ -647,9 +647,9 @@ Looks like the scan picked up the old Firefox that we downloaded and as you can 
   
 <br />
 <br />
-                                      <br/>
+Ok, So I uninstalled Firefox and did some Windows updates and it looks like Windows is up to date, now lets run our final scan and see the results.                                      <br/>
                                       <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="blob:https://imgur.com/925ff33c-003f-410f-890f-74f1573ff14d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br/>
 
@@ -660,7 +660,7 @@ Looks like the scan picked up the old Firefox that we downloaded and as you can 
 
 <br />
 <br />
-                                    <br/>
+Final scan results.                                     <br/>
                                       <br />
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
